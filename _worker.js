@@ -2365,7 +2365,7 @@ async function subHtml(request, hostLength = 0, FileName, subProtocol, subConver
         </div>
         
         <div class="footer">
-            <p>© 2025 BPSUB - Powered by Cloudflare Snippets | 感谢白嫖哥提供维护的 - <a href="https://t.me/v2rayByCf" target="_blank" class="thanks-link" title="访问Snipaste节点分享频道">🔗 Snipaste节点</a></p>
+            <p>© 2025 BPSUB - Powered by Cloudflare Snippets 
         </div>
     </div>
     
